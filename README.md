@@ -1,6 +1,6 @@
 ## Ema Take Home Project  
 
-### Essential files (containing core logic) are:  
+### Essential files (core logic) are:  
 
 AI_Processing_File_worker.py  
 File_Processing_worker.py  
