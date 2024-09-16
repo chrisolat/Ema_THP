@@ -9,3 +9,5 @@ models.py
 permissions.py  
 tasks.py  
 transformer.py  
+
+[System design Doc](https://docs.google.com/document/d/1DqHPBLB6wfWYccMcfNCjmKZh8oHNbNdG503y5VW2uL0/edit?usp=sharing) 
